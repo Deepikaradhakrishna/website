@@ -1,0 +1,40 @@
+:root {
+  --header-height: 3rem;
+  --font-semi: 600;
+  --first-color: #4070f4;
+  --second-color: #0e2431;
+  --gradient-color: linear-gradient(to right, #5001fb, #8e0af3);
+  --body-font: "Poppins", sans-serif;
+  --big-font-size: 2rem;
+  --h2-font-size: 1.5rem;
+  --normal-font-size: 0.938rem;
+  --mb-1: 0.5rem;
+  --mb-2: 1rem;
+  --mb-3: 1.5rem;
+  --mb-4: 2rem;
+  --mb-5: 2.5rem;
+  --mb-6: 3rem;
+  --z-back: -10;
+  --z-normal: 1;
+  --z-tooltip: 10;
+  --z-fixed: 100;
+}
+.skill_html {
+  width: 95%;
+}
+
+.skill_css {
+  width: 90%; /* Adjusted to match your CSS */
+}
+
+.skill_js {
+  width: 85%; /* Adjusted to match your CSS */
+}
+
+.skill_bootstrap {
+  width: 75%; /* Add class for Bootstrap */
+}
+
+.skill_mongodb {
+  width: 60%; /* Add class for MongoDB */
+}
